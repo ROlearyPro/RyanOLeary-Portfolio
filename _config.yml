@@ -1,18 +1,15 @@
-title: My Portfolio Site
+title: Ryan O'Leary's Portfolio Site
 profile_img: /assets/img/logo.png
 icon_img: /assets/img/logo.png
 
 name: "Ryan O'Leary"
-job: "Your Job Title"
+job: "Software Engineer"
 
-phone_number: 111-222-3333
-address: City, Country
-email: email@example.com
+phone_number: 720-440-1713
+address: Lone Tree, Colorado
+email: ROlearyprogramming@gmail.com
 linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
-twitter_username: twitter
-facebook_username: facebook
+github_username: ROlearyPro
 
 theme: jekyll-professional-resume
 
